@@ -1,0 +1,6 @@
+CUSTOMER,1,Breazu Vlad,vlad@gmail.com,vlad,Vlad@112,Alee Alexandriei,Romania,0700000001
+CUSTOMER,2,Denis Toropoc,denis@gmail.com,denis,Denis@112,Strada Pompierilor,Romania,0700000002
+CUSTOMER,3,David Simion,david@gmail.com,david,David@112,Fundatura Cucului,Romania,0700000003
+CUSTOMER,4,Dobre Andrei,dobre@gmail.com,dobre,Dobre@112,Strada Grivitei,Romania,0700000004
+CUSTOMER,5,Chiru Matei,matei@gmail.com,matei,Matei@112,Strada Pasarelei,Romania,0700000005
+ADMIN,10,Admin Admin,admin@gmail.com,admin,Admin@112,Admin,AdminPassword

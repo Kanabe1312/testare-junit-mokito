@@ -1,0 +1,5 @@
+1,Apa,4,1000,bauturi,5000
+2,Ciocolata,9,150,dulciuri,3000
+3,Mere,10,1000,fructe,600
+4,SmartTV,2000,3000,TV,300
+5,Aspirator,600,700,electrocasnice,60
